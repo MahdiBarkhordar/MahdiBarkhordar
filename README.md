@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Mahdi Barkhordar
@@ -13,11 +12,23 @@
 <br>
 
 <a href="https://github.com/MahdiBarkhordar">
-  <img src="https://komarev.com/ghpvc/?username=MahdiBarkhordar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MahdiBarkhordar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/MahdiBarkhordar?tab=followers">
-  <img src="https://img.shields.io/github/followers/MahdiBarkhordar?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/MahdiBarkhordar?label=FOLLOWERS&color=181717&style=for-the-badge&logo=github" alt="Followers"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/MahdiBarkhordar">
+  <img src="https://img.shields.io/badge/GitHub-MahdiBarkhordar-181717?style=flat-square&logo=github" />
+</a>
+
+<a href="https://t.me/Mahdii_142">
+  <img src="https://img.shields.io/badge/Telegram-@Mahdii__142-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 </a>
 
 </div>
@@ -30,22 +41,30 @@
 
 </div>
 
+<p align="center">
+  I'm a <strong>Web Designer & Developer</strong> focused on creating
+  modern, responsive and user-focused digital experiences.
+</p>
 
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  👨‍💻 Web Designer & Developer                              │
-│  🎨 Modern UI/UX & Responsive Design                        │
-│  🚀 Real-world Web Applications                             │
-│  🌱 Backend & Full-Stack Development                         │
-│  🤖 AI-Assisted Development                                  │
-│  🔍 SEO & Performance Optimization                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+<p align="center">
+  I enjoy transforming ideas into real-world web applications
+  with clean interfaces, scalable architecture and strong attention
+  to performance and user experience.
+</p>
 
-
-I enjoy turning ideas into modern, responsive and practical web experiences.
-
-My focus is on building interfaces that are not only visually polished, but also maintainable, scalable and enjoyable to use.
+<p align="center">
+  <strong>🎨 UI/UX</strong>
+  &nbsp; • &nbsp;
+  <strong>💻 Web Development</strong>
+  &nbsp; • &nbsp;
+  <strong>⚙️ Backend</strong>
+  &nbsp; • &nbsp;
+  <strong>🚀 Performance</strong>
+  &nbsp; • &nbsp;
+  <strong>🤖 AI</strong>
+  &nbsp; • &nbsp;
+  <strong>🔍 SEO</strong>
+</p>
 
 ---
 
@@ -83,11 +102,11 @@ My focus is on building interfaces that are not only visually polished, but also
 
 Modern, responsive and interactive interfaces using:
 
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* Tailwind CSS
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Tailwind CSS
 
 </td>
 
@@ -97,10 +116,10 @@ Modern, responsive and interactive interfaces using:
 
 Scalable web applications using:
 
-* PHP
-* Laravel
-* C#
-* ASP.NET / .NET MVC
+- PHP
+- Laravel
+- C#
+- ASP.NET / .NET MVC
 
 </td>
 </tr>
@@ -112,11 +131,11 @@ Scalable web applications using:
 
 Modern online stores with:
 
-* Product management
-* Shopping carts
-* User accounts
-* Orders
-* Responsive UI
+- Product management
+- Shopping carts
+- User accounts
+- Orders
+- Responsive UI
 
 </td>
 
@@ -126,11 +145,11 @@ Modern online stores with:
 
 Focused on:
 
-* Performance
-* SEO
-* Responsive Design
-* Clean Architecture
-* User Experience
+- Performance
+- SEO
+- Responsive Design
+- Clean Architecture
+- User Experience
 
 </td>
 </tr>
@@ -140,41 +159,35 @@ Focused on:
 
 <div align="center">
 
-## 📌 Featured Projects
+## 💼 Featured Projects
+
+### Selected Work & Projects
+
+<br>
+
+<a href="https://github.com/MahdiBarkhordar/Interactive-Developer-Resume">
+  <img src="https://img.shields.io/badge/💼_Interactive_Developer_Resume-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🌴_خرما_ارغوان-E--Commerce-65c98b?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/☕_CafeMenuMaker-Digital_Menu-6f4e37?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🌎_ARMAN_Trade-Export_Company-1f6feb?style=for-the-badge" />
+</a>
 
 </div>
-
-### 💼 Interactive Developer Resume
-
-> An interactive personal developer portfolio with responsive design, themes, animations, multilingual support and customizable settings.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-🔗 [View Repository](https://github.com/MahdiBarkhordar/Interactive-Developer-Resume)
-
----
-
-### 🌴 خرما ارغوان — E-Commerce
-
-> A modern Persian e-commerce experience for selling premium dates with a focus on clean UI, user experience and modern architecture.
-
-**Stack:** `Laravel` `PHP` `JavaScript` `HTML` `CSS`
-
----
-
-### ☕ CafeMenuMaker
-
-> A digital menu platform for cafes and restaurants with customizable categories, products and visual menu templates.
-
-**Stack:** `C#` `ASP.NET Core` `MVC` `HTML` `CSS` `JavaScript`
-
----
-
-### 🌎 ARMAN Trade
-
-> A modern export company website designed to showcase products and international business services.
-
-**Stack:** `HTML` `CSS` `JavaScript`
 
 ---
 
@@ -184,15 +197,15 @@ Focused on:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahdiBarkhordar&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahdiBarkhordar&show_icons=true&hide_border=true&rank_icon=github" />
+
+&nbsp;&nbsp;&nbsp;
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiBarkhordar&layout=compact&hide_border=true" />
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiBarkhordar&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiBarkhordar&layout=compact&hide_border=true" />
 
 </div>
 
@@ -202,7 +215,12 @@ Focused on:
 
 ## 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/MahdiBarkhordar/MahdiBarkhordar/output/github-contribution-grid-snake.svg" />
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/MahdiBarkhordar/MahdiBarkhordar/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
@@ -212,12 +230,51 @@ Focused on:
 
 ## 🎯 Currently
 
+<br>
 
-Building       →  Modern Web Applications
-Learning       →  Backend & Full-Stack Development
-Exploring      →  AI-Assisted Development
-Improving      →  UI/UX & Performance
+<table>
+<tr>
+<td align="center" width="25%">
 
+### 🚀
+
+**Building**
+
+Modern Web Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 📚
+
+**Learning**
+
+Backend & Full-Stack
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Exploring**
+
+AI-Assisted Development
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Improving**
+
+UI/UX & Performance
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -227,8 +284,24 @@ Improving      →  UI/UX & Performance
 
 ## 📫 Connect With Me
 
+<br>
+
 <a href="https://github.com/MahdiBarkhordar">
-  <img src="https://img.shields.io/badge/GitHub-MahdiBarkhordar-181717?style=for-the-badge&logo=github" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/Mahdii_142">
+  <img src="https://skillicons.dev/icons?i=telegram" width="50" alt="Telegram"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mahdibarkhordar142@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Email"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/MahdiBarkhordar">
+  <img src="https://img.shields.io/badge/GitHub-@MahdiBarkhordar-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://t.me/Mahdii_142">
@@ -236,7 +309,7 @@ Improving      →  UI/UX & Performance
 </a>
 
 <a href="mailto:mahdibarkhordar142@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -252,4 +325,3 @@ Improving      →  UI/UX & Performance
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
 
 </div>
-
