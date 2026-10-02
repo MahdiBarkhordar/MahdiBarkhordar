@@ -31,11 +31,27 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-### ⚡ Tech Arsenal
+---
 
-<img src="./assets/skills.svg" width="100%" alt="Skills: HTML, CSS, JavaScript, Tailwind, Bootstrap, PHP, Laravel, C#, ASP.NET, WordPress, Figma, Photoshop, Git"/>
+<div align="center">
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+## 🧠 Tech Stack
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet" />
+
+### CMS & Tools
+
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,visualstudio,figma,photoshop" />
+
+</div>
+
+---
 
 ### 🚀 What I Build
 
