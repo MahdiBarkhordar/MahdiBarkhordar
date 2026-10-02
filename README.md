@@ -1,312 +1,83 @@
 <div align="center">
 
-# 👋 Hi, I'm Mahdi Barkhordar
+<img src="./assets/header.svg" width="100%" alt="Mahdi Barkhordar — Web Designer & Developer"/>
 
-### 💻 Web Designer & Developer
+<br/>
 
-<p>
-  Building <strong>modern</strong>, <strong>scalable</strong> and
-  <strong>user-focused</strong> digital experiences.
-</p>
+<a href="https://github.com/MahdiBarkhordar"><img src="https://img.shields.io/badge/GitHub-MahdiBarkhordar-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=a78bfa" alt="GitHub"/></a>
+<a href="https://t.me/Mahdii_142"><img src="https://img.shields.io/badge/Telegram-@Mahdii__142-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0d1117&color=22d3ee" alt="Telegram"/></a>
+<a href="mailto:mahdibarkhordar142@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=f472b6" alt="Email"/></a>
 
-<br>
+<br/>
 
-<a href="https://github.com/MahdiBarkhordar">
-  <img src="https://komarev.com/ghpvc/?username=MahdiBarkhordar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=MahdiBarkhordar&label=VISITORS&color=a78bfa&style=flat-square" alt="Profile views"/>
 
-&nbsp;
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<a href="https://github.com/MahdiBarkhordar?tab=followers">
-  <img src="https://img.shields.io/github/followers/MahdiBarkhordar?label=FOLLOWERS&color=181717&style=for-the-badge&logo=github" alt="Followers"/>
-</a>
+<img src="./assets/terminal.svg" width="85%" alt="Terminal: whoami"/>
 
-<br><br>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<a href="https://github.com/MahdiBarkhordar">
-  <img src="https://img.shields.io/badge/GitHub-MahdiBarkhordar-181717?style=flat-square&logo=github" />
-</a>
-
-<a href="https://t.me/Mahdii_142">
-  <img src="https://img.shields.io/badge/Telegram-@Mahdii__142-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ About Me
-
-</div>
+### ⚡ About Me
 
 <p align="center">
-  I'm a <strong>Web Designer & Developer</strong> focused on creating
-  modern, responsive and user-focused digital experiences.
+  I'm a <strong>Web Designer & Developer</strong> focused on creating modern, responsive and user-focused digital experiences.<br/>
+  I enjoy turning ideas into real-world web apps with clean interfaces, scalable architecture and a strong eye for performance and UX.
 </p>
 
 <p align="center">
-  I enjoy transforming ideas into real-world web applications
-  with clean interfaces, scalable architecture and strong attention
-  to performance and user experience.
+  <strong>🎨 UI/UX</strong> &nbsp;•&nbsp; <strong>💻 Web Development</strong> &nbsp;•&nbsp; <strong>⚙️ Backend</strong> &nbsp;•&nbsp; <strong>🚀 Performance</strong> &nbsp;•&nbsp; <strong>🤖 AI</strong> &nbsp;•&nbsp; <strong>🔍 SEO</strong>
 </p>
 
-<p align="center">
-  <strong>🎨 UI/UX</strong>
-  &nbsp; • &nbsp;
-  <strong>💻 Web Development</strong>
-  &nbsp; • &nbsp;
-  <strong>⚙️ Backend</strong>
-  &nbsp; • &nbsp;
-  <strong>🚀 Performance</strong>
-  &nbsp; • &nbsp;
-  <strong>🤖 AI</strong>
-  &nbsp; • &nbsp;
-  <strong>🔍 SEO</strong>
-</p>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
+### ⚡ Tech Arsenal
 
-<div align="center">
+<img src="./assets/skills.svg" width="100%" alt="Skills: HTML, CSS, JavaScript, Tailwind, Bootstrap, PHP, Laravel, C#, ASP.NET, WordPress, Figma, Photoshop, Git"/>
 
-## 🧠 Tech Stack
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-### Frontend
+### 🚀 What I Build
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+<img src="./assets/build.svg" width="100%" alt="Frontend, backend, e-commerce and optimization"/>
 
-### Backend
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet" />
-
-### CMS & Tools
-
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,visualstudio,figma,photoshop" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 What I Build
-
-</div>
+### 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎨 Frontend Development
-
-Modern, responsive and interactive interfaces using:
-
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-
+<td align="center">
+<a href="https://github.com/MahdiBarkhordar/Interactive-Developer-Resume"><img src="./assets/p1.svg" alt="Interactive Developer Resume"/></a>
 </td>
-
-<td width="50%">
-
-### ⚙️ Backend Development
-
-Scalable web applications using:
-
-- PHP
-- Laravel
-- C#
-- ASP.NET / .NET MVC
-
+<td align="center">
+<a href="#"><img src="./assets/p2.svg" alt="خرما ارغوان"/></a>
 </td>
 </tr>
-
 <tr>
-<td width="50%">
-
-### 🛒 E-Commerce
-
-Modern online stores with:
-
-- Product management
-- Shopping carts
-- User accounts
-- Orders
-- Responsive UI
-
+<td align="center">
+<a href="#"><img src="./assets/p3.svg" alt="CafeMenuMaker"/></a>
 </td>
-
-<td width="50%">
-
-### ⚡ Optimization
-
-Focused on:
-
-- Performance
-- SEO
-- Responsive Design
-- Clean Architecture
-- User Experience
-
+<td align="center">
+<a href="#"><img src="./assets/p4.svg" alt="ARMAN Trade"/></a>
 </td>
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
+### 🎯 Currently
 
-## 💼 Featured Projects
+<img src="./assets/currently.svg" width="100%" alt="Building modern web apps · Learning backend & full-stack · Exploring AI-assisted development · Improving UI/UX & performance"/>
 
-</div>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<table>
-<tr>
-<td>
+### 🐍 Contribution Snake
 
-### 💼 Interactive Developer Resume
+<img src="https://raw.githubusercontent.com/MahdiBarkhordar/MahdiBarkhordar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
-Interactive personal developer portfolio with modern UI, animations, themes and multilingual support.
+<br/><br/>
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🌴 خرما ارغوان
-
-Modern Persian E-Commerce platform for selling premium dates.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ☕ CafeMenuMaker
-
-Digital menu platform for cafes and restaurants with customizable templates.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🌎 ARMAN Trade
-
-Modern website for an export company and international business services.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎯 Currently
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🚀
-
-**Building**
-
-Modern Web Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 📚
-
-**Learning**
-
-Backend & Full-Stack
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**Exploring**
-
-AI-Assisted Development
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-**Improving**
-
-UI/UX & Performance
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Connect With Me
-
-<br>
-
-<a href="https://github.com/MahdiBarkhordar">
-  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://t.me/Mahdii_142">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" alt="Telegram"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:mahdibarkhordar142@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/MahdiBarkhordar">
-  <img src="https://img.shields.io/badge/GitHub-@MahdiBarkhordar-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://t.me/Mahdii_142">
-  <img src="https://img.shields.io/badge/Telegram-@Mahdii__142-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="mailto:mahdibarkhordar142@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Build. Learn. Create. Repeat.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
+<img src="./assets/footer.svg" width="100%" alt="Build. Learn. Create. Repeat."/>
 
 </div>
