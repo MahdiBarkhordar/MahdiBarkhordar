@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mahdi Barkhordar 👋
 
-<!--
-**MahdiBarkhordar/MahdiBarkhordar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Designer & Developer from Iran.
 
-Here are some ideas to get you started:
+I build modern, responsive and user-focused web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Web Designer & Developer
+- 🎨 Focused on modern UI/UX
+- 🌱 Currently improving my backend and full-stack skills
+- 🔧 Building real-world web projects
+- 🤖 Interested in AI-assisted development
+
+## 🛠️ Tech Stack
+
+HTML • CSS • JavaScript • Bootstrap • Tailwind CSS
+PHP • Laravel • WordPress
+C# • .NET MVC
+Git • GitHub • SEO
+
+## 📌 Featured Projects
+
+- Interactive Developer Resume
+- خرما ارغوان — E-commerce Website
+- CafeMenuMaker — Digital Menu Platform
+- ARMAN Trade — Export Company Website
+
+## 📫 Connect With Me
+
+GitHub: @MahdiBarkhordar
+Telegram: @Mahdii_142
+Email: mahdibarkhordar142@gmail.com
