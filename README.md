@@ -161,68 +161,49 @@ Focused on:
 
 ## 💼 Featured Projects
 
-### Selected Work & Projects
-
-<br>
-
-<a href="https://github.com/MahdiBarkhordar/Interactive-Developer-Resume">
-  <img src="https://img.shields.io/badge/💼_Interactive_Developer_Resume-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br><br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🌴_خرما_ارغوان-E--Commerce-65c98b?style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/☕_CafeMenuMaker-Digital_Menu-6f4e37?style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🌎_ARMAN_Trade-Export_Company-1f6feb?style=for-the-badge" />
-</a>
-
 </div>
 
----
+<table>
+<tr>
+<td>
 
-<div align="center">
+### 💼 Interactive Developer Resume
 
-## 📊 GitHub Activity
+Interactive personal developer portfolio with modern UI, animations, themes and multilingual support.
 
-<br>
+</td>
+</tr>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahdiBarkhordar&show_icons=true&hide_border=true&rank_icon=github" />
+<tr>
+<td>
 
-&nbsp;&nbsp;&nbsp;
+### 🌴 خرما ارغوان
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiBarkhordar&layout=compact&hide_border=true" />
+Modern Persian E-Commerce platform for selling premium dates.
 
-<br><br>
+</td>
+</tr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiBarkhordar&hide_border=true" />
+<tr>
+<td>
 
-</div>
+### ☕ CafeMenuMaker
 
----
+Digital menu platform for cafes and restaurants with customizable templates.
 
-<div align="center">
+</td>
+</tr>
 
-## 🐍 Contribution Activity
+<tr>
+<td>
 
-<br>
+### 🌎 ARMAN Trade
 
-<img
-  src="https://raw.githubusercontent.com/MahdiBarkhordar/MahdiBarkhordar/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
+Modern website for an export company and international business services.
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -287,15 +268,19 @@ UI/UX & Performance
 <br>
 
 <a href="https://github.com/MahdiBarkhordar">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://t.me/Mahdii_142">
-  <img src="https://skillicons.dev/icons?i=telegram" width="50" alt="Telegram"/>
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" alt="Telegram"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:mahdibarkhordar142@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
 </a>
 
 <br><br>
