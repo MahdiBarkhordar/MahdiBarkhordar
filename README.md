@@ -35,7 +35,7 @@
 
 <div align="center">
 
-## 🧠 Tech Stack
+### 🧠 Tech Stack
 
 ### Frontend
 
