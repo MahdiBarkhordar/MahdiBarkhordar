@@ -47,7 +47,7 @@
 
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,visualstudio,figma,photoshop" />
 
-<br/>
+<br/><br/>
 
 <img src="./assets/skills.svg" width="85%" alt="Terminal: whoami"/>
 
