@@ -2,13 +2,13 @@
 
 <img src="./assets/header.svg" width="100%" alt="Mahdi Barkhordar — Web Designer & Developer"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/MahdiBarkhordar"><img src="https://img.shields.io/badge/GitHub-MahdiBarkhordar-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=a78bfa" alt="GitHub"/></a>
 <a href="https://t.me/Mahdii_142"><img src="https://img.shields.io/badge/Telegram-@Mahdii__142-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0d1117&color=22d3ee" alt="Telegram"/></a>
 <a href="mailto:mahdibarkhordar142@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=f472b6" alt="Email"/></a>
 
-<br/>
+
 
 <img src="https://komarev.com/ghpvc/?username=MahdiBarkhordar&label=VISITORS&color=a78bfa&style=flat-square" alt="Profile views"/>
 
@@ -31,8 +31,6 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
----
-
 <div align="center">
 
 ### 🧠 Tech Stack
@@ -49,9 +47,13 @@
 
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,visualstudio,figma,photoshop" />
 
+<br/><br/>
+
+<img src="./assets/skills.svg" width="85%" alt="Terminal: whoami"/>
+
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### 🚀 What I Build
 
