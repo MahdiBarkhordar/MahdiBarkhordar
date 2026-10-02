@@ -28,6 +28,6 @@ Git • GitHub • SEO
 
 ## 📫 Connect With Me
 
-GitHub: @MahdiBarkhordar
-Telegram: @Mahdii_142
-Email: mahdibarkhordar142@gmail.com
+- GitHub: @MahdiBarkhordar
+- Telegram: @Mahdii_142
+- Email: mahdibarkhordar142@gmail.com
