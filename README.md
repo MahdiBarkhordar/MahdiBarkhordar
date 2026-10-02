@@ -47,6 +47,8 @@
 
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,visualstudio,figma,photoshop" />
 
+<img src="./assets/skills.svg" width="85%" alt="Terminal: whoami"/>
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
