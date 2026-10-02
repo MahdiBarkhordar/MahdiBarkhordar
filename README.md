@@ -82,18 +82,11 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-### 🎯 Currently
-
-<img src="./assets/currently.svg" width="100%" alt="Building modern web apps · Learning backend & full-stack · Exploring AI-assisted development · Improving UI/UX & performance"/>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/MahdiBarkhordar/MahdiBarkhordar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+🎯 Currently
+<img src="./assets/currently.svg" width="100%" alt="Building modern web apps · Learning backend & full-stack · Exploring AI-assisted development · Improving UI/UX & performance"/> <img src="./assets/divider.svg" width="100%" alt=""/>
+🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/MahdiBarkhordar/MahdiBarkhordar/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Build. Learn. Create. Repeat."/>
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Build. Learn. Create. Repeat."/> </div>
